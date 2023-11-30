@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 # from babel.numbers import format_currency
 # import plotly.figure_factory as ff
-import plotly.express as px
+# import plotly.express as px
 sns.set(style='dark')
 
 with st.sidebar:
